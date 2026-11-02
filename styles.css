@@ -1,9 +1,9 @@
 :root {
   --bg: #0b1114;
-  --text: #f5efe4;
-  --muted: #b4b0a7;
-  --faint: #70808a;
-  --accent: #e2b85b;
+  --text: #ffffff;
+  --muted: #9eaab8;
+  --faint: #5a6a78;
+  --accent: #6b9fcf;
   --line: rgba(255, 255, 255, 0.10);
   --max: 680px;
 }
@@ -98,7 +98,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .project-card:hover {
-  border-color: rgba(226, 184, 91, 0.35);
+  border-color: rgba(107, 159, 207, 0.35);
 }
 
 .project-link {
